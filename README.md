@@ -1,10 +1,9 @@
 OLA Data Analyst Project
 
-Project Overview
-
+Project Overview:
 This project analyzes OLA ride booking data for Bengaluru over a one-month period. The goal is to provide actionable insights for decision-making, focusing on booking trends, customer behavior, and driver performance.
 
-Project Components
+Project Components:
 
 Data Analysis: Exploratory data analysis to uncover key trends in ride bookings, cancellations, and customer preferences.
 
@@ -12,7 +11,7 @@ Dashboard: An interactive dashboard visualizing booking metrics, cancellations, 
 
 Presentation: A concise report summarizing key findings, recommendations, and responses to business queries.
 
-Resources Provided
+Resources Provided:
 
 Dataset: Ride booking data with details on customers, drivers, vehicle types, and booking statuses.
 
@@ -20,8 +19,7 @@ Metadata: Descriptions of each field in the dataset.
 
 Supporting Documents: Business questions, insights, and recommendations for improving operational efficiency.
 
-Dataset Description
-
+Dataset Description:
 The dataset includes the following columns:
 
 Date: Booking date
